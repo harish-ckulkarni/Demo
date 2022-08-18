@@ -9,6 +9,9 @@ public class Demo7 {
         System.out.println(s2);
         System.out.println("demo7");
         System.out.println("change");
+        System.out.println("");
+        System.out.println("demo8");
+
 
     }
 }
